@@ -6,7 +6,7 @@ import Post from './Post';
 const Content = () => {
     return (
         <div className='cont'>
-          <Post />
+          <Post name='Nariman' age='32'/>
           <Post />
           <Post />
           <Post />  
