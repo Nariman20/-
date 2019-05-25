@@ -1,0 +1,19 @@
+.cart {
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: aqua;
+    
+}
+
+.cart img {
+    width: 100px;
+    height: auto;
+    display: block;
+  margin: 0 auto;
+}
+
+.cartName {
+    text-align: center;
+    marker-end: 50px;
+}
