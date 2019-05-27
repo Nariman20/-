@@ -25,9 +25,10 @@ header {
 }
 
 .logo img {
-    width: 60px;
+    width: 100px;
     -webkit-filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.25));
     filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.25));
+    border-radius: 5px;
 }
 
 .h-flex {
@@ -66,12 +67,12 @@ header {
 
 .post {
     margin-bottom: 70px;
-    width: 650px;
-    min-height: 560px;
+    width: 450px;
+    min-height: 360px;
     background: #FFFFFF;
     border: 1px solid rgba(0, 0, 0, 0.1);
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
+    border-radius: 6px;
 }
 
 .post .user {
