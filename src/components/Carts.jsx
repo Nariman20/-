@@ -6,6 +6,8 @@ const Carts = () => {
     return (
         <div className='container feed'>
           <Posts />
+          <Posts />
+          <Posts />
         </div>
     )
 }

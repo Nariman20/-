@@ -57,8 +57,10 @@ header {
 
 .feed {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin-top: 70px;
+    
+
 }
 
 .left {
@@ -82,7 +84,7 @@ header {
 .post > img {
     width: 100%;
     height: auto;
-   
+    border-radius: 10px;
     object-fit: cover;
 }
 
